@@ -3,3 +3,5 @@
 /buckaroo/
 .buckconfig.local
 BUCKAROO_DEPS
+
+./.m03w/build
